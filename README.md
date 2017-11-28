@@ -1,1 +1,11 @@
-Files will soon be put here. For now visit the older page: https://github.com/ieee8023/NeuralNetwork-Examples/tree/master/theano/counting
+# Countception
+
+by J. P. Cohen, H. Z. Lo, and Y. Bengio, [“Count-ception: Counting by Fully Convolutional Redundant Counting,” 2017.](https://arxiv.org/abs/1703.08710)
+
+Here is a [(video of the learning in progress:)](https://www.youtube.com/watch?v=ej5bj0mlQq8)
+
+The cell dataset used in this work is available from
+
+[VGG](http://www.robots.ox.ac.uk/~vgg/research/counting/cells.zip) and 
+
+[Academic Torrents](http://academictorrents.com/details/b32305598175bb8e03c5f350e962d772a910641c)
